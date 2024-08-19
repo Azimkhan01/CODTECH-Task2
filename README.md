@@ -1,9 +1,15 @@
-E-Commerce Platform
+E-Commerce Platform 
+
 Name: Azimuddeen Mojebur Rahman Khan
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DS7047
+
 DOMAIN: WEB DEVELOPMENT
+
 DURATION: AUGUST TO SEPTEMBER 2024
+
 MENTOR: Neela Santhosh Kumar
 
 Overview of Project
